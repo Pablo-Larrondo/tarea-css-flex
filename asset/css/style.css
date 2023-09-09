@@ -1,0 +1,109 @@
+body {
+    background-color: white;
+    margin: 0%;
+    font-family: 'Roboto', sans-serif;
+}
+
+.main {
+    display: flex;
+
+}
+
+/* CSS contenido */
+
+.content {
+    background-color: #E5E4E2;
+    width: 83%;
+    margin: auto;
+    text-align: center;
+    align-items: center;
+    min-height: 100vh
+}
+
+.logo {
+    width: 10rem;
+    margin-top: 30%;
+}
+
+
+
+
+
+/* CSS usuarios */
+
+.user {
+
+    width: 17%;
+}
+
+.logos-2 {
+    margin: auto;
+    justify-content: space-around;
+    font-size: 20px;
+}
+
+.boton-chat {
+
+    background-color: white;
+    text-align: center;
+    border-top: 2px solid;
+    border-left: 2px solid;
+    border-right: 2px solid;
+    border-color: #8a8988;
+
+}
+
+.btn {
+
+    font-size: 20px;
+    color: white;
+    background-color: #A491D2;
+    width: 150px;
+    height: 50px;
+    margin: 36px;
+    padding-top: 16px;
+    display: inline-block;
+    text-decoration-line: none;
+}
+
+.caja-1 {
+    display: flex;
+    border-top: 2px solid;
+    border-left: 2px solid;
+    border-right: 2px solid;
+    border-color: #8a8988;
+}
+
+.caja-img {
+    margin-top: 5px;
+    margin-left: 10px;
+}
+
+.imgj {
+    width: 4.7rem;
+    border-radius: 45px;
+}
+
+.caja-text {
+    margin-left: 20px;
+}
+
+.h4-text {
+    margin-top: 14px;
+    margin-bottom: 0px;
+}
+
+.p-text {
+    margin-top: 3px;
+    margin-bottom: 5px;
+}
+
+.caja-2 {
+    display: flex;
+
+    border-top: 2px solid;
+    border-left: 2px solid;
+    border-right: 2px solid;
+    border-bottom: 2px solid;
+    border-color: #8a8988;
+}
